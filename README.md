@@ -1,2 +1,1 @@
-# AsyncErrorHandling
-Error handling examples for Asynchronous programming
+# Error handling examples for Asynchronous programming
